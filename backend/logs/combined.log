@@ -683,3 +683,38 @@
 {"api":{"duration":"7ms","ip":"::ffff:127.0.0.1","method":"POST","status":201,"url":"/api/products","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"},"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":15680,"platform":"win32"},"message":"HTTP POST /api/products","timestamp":"2026-05-25 17:18:03","user":"anonymous"}
 {"api":{"duration":"2ms","ip":"::ffff:127.0.0.1","method":"GET","status":200,"url":"/api/products","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"},"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":15680,"platform":"win32"},"message":"HTTP GET /api/products","timestamp":"2026-05-25 17:18:03","user":"anonymous"}
 {"api":{"duration":"9ms","ip":"::ffff:127.0.0.1","method":"GET","status":200,"url":"/api/auth/check-username?username=lea","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"},"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":15680,"platform":"win32"},"message":"HTTP GET /api/auth/check-username?username=lea","timestamp":"2026-05-25 17:18:27","user":"anonymous"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":12556,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:35"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":12556,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:35"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":12556,"platform":"win32"},"message":"Primary process 12556 running. Syncing databases...","timestamp":"2026-05-25 17:34:35"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":12556,"platform":"win32"},"message":"DB models synced.","timestamp":"2026-05-25 17:34:35"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":12556,"platform":"win32"},"message":"Spawning 10 worker processes...","timestamp":"2026-05-25 17:34:35"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":25596,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:36"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":25596,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":25596,"platform":"win32"},"message":"Worker process 25596 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":20052,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":23492,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":9244,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":26128,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":25864,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":26496,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":20896,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:36"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":16700,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:36"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":13964,"platform":"win32"},"message":"MongoDB Connected: 127.0.0.1","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":26496,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":25864,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":9244,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":26128,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":20052,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":16700,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":26496,"platform":"win32"},"message":"Worker process 26496 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":25864,"platform":"win32"},"message":"Worker process 25864 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":23492,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":13964,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":9244,"platform":"win32"},"message":"Worker process 9244 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":26128,"platform":"win32"},"message":"Worker process 26128 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":20052,"platform":"win32"},"message":"Worker process 20052 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":16700,"platform":"win32"},"message":"Worker process 16700 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":23492,"platform":"win32"},"message":"Worker process 23492 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":13964,"platform":"win32"},"message":"Worker process 13964 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":20896,"platform":"win32"},"message":"MySQL Connected.","timestamp":"2026-05-25 17:34:37"}
+{"level":"info","machine":{"hostname":"LAPTOP-UIAH8CAS","pid":20896,"platform":"win32"},"message":"Worker process 20896 listening on port 5000","timestamp":"2026-05-25 17:34:37"}
